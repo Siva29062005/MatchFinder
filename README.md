@@ -1,4 +1,4 @@
-# 💞 MatchFinder in a Family Tree – Low Level Design (LLD)
+# MatchFinder in a Family Tree – Low Level Design (LLD)
 
 This project designs a **MatchFinder system** that identifies suitable matches for a person from a **family tree structure**, applying **object-oriented design** and **relationship-based rules**.
 
